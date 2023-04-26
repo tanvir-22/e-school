@@ -1,0 +1,115 @@
+.text{
+    text-align: center;
+}
+.navbar img{
+    height: 65px;
+}
+
+.mar-top{
+    margin-top: 100px;
+}
+.nav-site{
+  
+    background-color:#F0FFF0 ;
+    padding-bottom: 50px;
+    margin-bottom: 50px;
+}
+.nav-item a{
+    font-family: 'Lato', sans-serif;
+font-family: 'Poppins', sans-serif;
+}
+.nav-link{
+    padding: 10px 40px;
+}
+.menu a{
+    padding:8px 20px !important;
+    border-radius: 33px;
+    color:black;
+    font-size: 17px;
+    transition: all ease-in-out .3s;
+}
+.menu a:hover{
+    font-size: 17px;
+    border: none;
+    background-color: #21B573;
+    color: #fff !important;
+    padding: 8px 20px !important;
+    border-radius: 20px;
+}
+.get-started{
+    padding: 12px 36px;
+    border: 1px solid  #21B573;
+    background-color: transparent;
+    border-radius: 33px;
+    transition: all ease-in-out .3s;
+    font-size: 14px;
+}
+.get-started:hover{
+    background-color:  #21B573;
+    color: #fff;
+    cursor: pointer;
+}
+
+.v1{
+  
+    border: none;
+    border-radius: 20px;
+    padding: 10px 20px;
+}
+.red{
+    color: red;
+}
+.first-half{
+    margin-top: 100px;
+}
+.feature{
+    height: 270px;
+    width: 270px;
+    border-radius: 10px;
+    background-color:rgba(229, 241, 239, 0.363);
+    transition: all ease-in-out .4s;
+}
+.feature:hover{
+    box-shadow: 8px 8px 50px  rgb(0, 0, 0,.15);
+    background-color:  #fff;
+}
+.feature h5{
+    font-size: 24px;
+    font-weight:500;
+    color:#413960
+}
+#course .card{
+	background: #FFFFFF;
+box-shadow:var(--box-shadow);
+border-radius: 18px;
+}
+#course .card .card-header,
+#course .card .card-footer{
+	background: transparent;
+	border:none;
+}
+#course .card .card-footer{
+	justify-content: space-around;
+}
+.card-footer-logo{
+    width: 24px;
+    height: 24px;
+}
+.card{
+    margin: 8%;
+}
+
+footer{
+    background-color: #282531;
+    color:white;
+    text-align:justify;
+    background-position: cover;
+    
+}
+footer li a{
+    color: #FFFFFF;
+    text-decoration: none;
+}
+.done li:hover{
+    color: #00bbff;
+    }
